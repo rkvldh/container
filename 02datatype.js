@@ -31,7 +31,7 @@
 
 // console.log(typeof bigNumber);
 // 01:50 minut
-// # (non primitiv) datatype ,Refrance type, Array, Object,Functions
+// # primitiv type Refrance tyoe
 // const outSideTemp = 0;
 // const heros = ["shaktimaan", "nagara", "doga"];
 
@@ -50,7 +50,8 @@
 // console.log(heros);
 // console.log(typeof myFuunction, "datatype function");
 
-// primitiv 7 datatype
+// non primitiv type
+// non primitiv datatype
 //datatype, string, number, boolen, null, undifined, symbole, bigint
 const datatypeNumber = 33;
 const datatypeString = "jai shree ram";
