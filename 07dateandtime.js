@@ -27,3 +27,4 @@ console.log(newDate.getMinutes());
 let nmonth = newDate.toLocaleDateString('default',{
     weekday: "long"
 })
+// 03:10 minut
