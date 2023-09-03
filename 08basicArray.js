@@ -50,7 +50,16 @@ console.log(real_another_array,'flat 1 array inside multi array is one array usi
 console.log('kya array hai',Array.isArray('ramesh'));
 console.log('convert string to array',Array.from('rameah'));
 
-console.log('not solve array return empty array',Array.from({name: 'ramesh'}));
+console.log('not solve array return empty array',Array.from({name: 'ramesh'})); // intresting array method
+
+// convert normal string ya number to array
+
+let score1 = 100;
+let score2 = 200;
+let score3 = 300;
+
+console.log(Array.of(score1,score2,score3));
+ 
 
 
 
