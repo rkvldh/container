@@ -30,4 +30,9 @@ jsuser.greeting = function(){
 console.log(jsuser.greeting())
 
 
+jsuser.greeting2 = function(){
+    console.log(`hello  ${this.name}`);
+}
+console.log(jsuser.greeting2())
 
+// ***************part-2************** 4:03 minut
