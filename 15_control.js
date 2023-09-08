@@ -115,9 +115,11 @@
 // console.log(val1);
 // ******Ternery operator*******
 // condition ? true : false
-const iceTeaPrice = 100;
-iceTeaPrice >= 80
-  ? console.log("less then 80")
-  : (cl = console.log("more then 80"));
-// 07: 10 minut
+// const iceTeaPrice = 100;
+// iceTeaPrice >= 80
+//   ? console.log("less then 80")
+//   : (cl = console.log("more then 80"));
+// // 07: 10 minut revise code 10 minut
+
+
 
