@@ -12,7 +12,7 @@
 //   arr = arr + 1;
 // }
 // ******do wlile loop****
-let score = 91;
+let score = 11;
 do {
   console.log(`score is ${score}`);
   score++;
