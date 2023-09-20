@@ -65,13 +65,13 @@
 
 // console.log(newNums);
 
-const myNums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-const newNum = [];
-myNums.forEach( (num) => {
-    if (num > 4){
-        newNum.push(num);
-    }
-} )
+// const myNums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+// const newNum = [];
+// myNums.forEach( (num) => {
+//     if (num > 4){
+//         newNum.push(num);
+//     }
+// } )
 
-console.log(newNum);
+// console.log(newNum);
 // 08:34 minut

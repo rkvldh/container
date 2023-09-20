@@ -41,4 +41,40 @@
 //   }
 //   console.log(`value of i is ${index}`);
 // }
-// 07:40 minut
+// // 07:40 minut
+// let map = new Map();
+// map.set('IN', 'INDIA');
+// map.set('USA', 'USA AMERICA');
+// map.set('FR', 'FRANCE');
+// map.set('PB', 'PUNJAB');
+// // console.log(map);
+
+// for (const [key, value] of map) {
+//     console.log(key," : ", value);
+    
+// }
+// es tarah se kaam nhi kar rah
+// const myObject = {
+//     'game1': 'mario',
+//     'game2': 'contra',
+//     'game3': 'super contra'
+// }
+
+// for (const [key, value] of myObject) {
+//     console.log(key, value);
+// }
+const myObject = {
+    js: 'java script',
+    cpp: 'c++',
+    rb: 'ruby',
+    swift: 'swift by apple'
+}
+for (const key in myObject) {
+    console.log(myObject[key]);
+    console.log(`${key} shortcut ${myObject[key]}`);
+    
+        
+}
+
+
+
