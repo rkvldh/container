@@ -1,3 +1,6 @@
+// guru ji parnaam
+// let const and var 
+
 const accountId = 144553;
 let accountEmail = "ramesh@gmail.com";
 var accountPassword = "12345";
