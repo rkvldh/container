@@ -81,9 +81,24 @@
 //   price: 399,
 // });
 
-const myNewArray = [100, 200, 300, 400, 500];
+// const myNewArray = [100, 200, 300, 400, 500];
 
-function returnSecondValue(getArray) {
-  return getArray[2];
+// function returnSecondValue(getArray) {
+//   return getArray[2];
+// }
+// console.log(returnSecondValue(myNewArray));
+
+// rest parameeter
+
+function myFunc(a,b,...c){
+  console.log(`a is ${a}`);
+  console.log(`a is ${b}`);
+  console.log(`a is ${c}`);
 }
-console.log(returnSecondValue(myNewArray));
+
+const restPara = myFunc(2,6,8,2,5,6,89);
+console.log(restPara);
+
+
+
+
